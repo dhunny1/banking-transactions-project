@@ -1,0 +1,22 @@
+account_name,bank_name,month,date,transaction_type,description,category,amount,balance
+Maya Johnson,Practice Data Bank,2026-01,2026-01-02,deposit,Paycheck,Income,2450.00,2450.00
+Maya Johnson,Practice Data Bank,2026-01,2026-01-03,withdrawal,Rent Payment,Housing,-1200.00,1250.00
+Maya Johnson,Practice Data Bank,2026-01,2026-01-05,withdrawal,Duke Energy Bill,Utilities,-86.45,1163.55
+Maya Johnson,Practice Data Bank,2026-01,2026-01-08,withdrawal,Walmart Groceries,Groceries,-74.22,1089.33
+Maya Johnson,Practice Data Bank,2026-01,2026-01-12,withdrawal,Netflix Subscription,Entertainment,-15.49,1073.84
+Maya Johnson,Practice Data Bank,2026-01,2026-01-18,withdrawal,Shell Gas,Transportation,-42.10,1031.74
+Maya Johnson,Practice Data Bank,2026-01,2026-01-25,withdrawal,Phone Bill,Utilities,-68.00,963.74
+Maya Johnson,Practice Data Bank,2026-02,2026-02-01,deposit,Paycheck,Income,2450.00,3413.74
+Maya Johnson,Practice Data Bank,2026-02,2026-02-03,withdrawal,Rent Payment,Housing,-1200.00,2213.74
+Maya Johnson,Practice Data Bank,2026-02,2026-02-06,withdrawal,Duke Energy Bill,Utilities,-91.30,2122.44
+Maya Johnson,Practice Data Bank,2026-02,2026-02-09,withdrawal,Target Household Items,Shopping,-53.18,2069.26
+Maya Johnson,Practice Data Bank,2026-02,2026-02-14,withdrawal,Valentine Dinner,Food,-62.40,2006.86
+Maya Johnson,Practice Data Bank,2026-02,2026-02-20,withdrawal,Car Insurance,Insurance,-135.00,1871.86
+Maya Johnson,Practice Data Bank,2026-02,2026-02-27,withdrawal,Internet Bill,Utilities,-79.99,1791.87
+Maya Johnson,Practice Data Bank,2026-03,2026-03-01,deposit,Paycheck,Income,2450.00,4241.87
+Maya Johnson,Practice Data Bank,2026-03,2026-03-03,withdrawal,Rent Payment,Housing,-1200.00,3041.87
+Maya Johnson,Practice Data Bank,2026-03,2026-03-07,withdrawal,Duke Energy Bill,Utilities,-84.75,2957.12
+Maya Johnson,Practice Data Bank,2026-03,2026-03-10,withdrawal,Costco Groceries,Groceries,-142.89,2814.23
+Maya Johnson,Practice Data Bank,2026-03,2026-03-16,withdrawal,Spotify Subscription,Entertainment,-10.99,2803.24
+Maya Johnson,Practice Data Bank,2026-03,2026-03-21,withdrawal,Oil Change,Transportation,-64.50,2738.74
+Maya Johnson,Practice Data Bank,2026-03,2026-03-28,withdrawal,Water Bill,Utilities,-38.60,2700.14
